@@ -1,2 +1,5 @@
 #!/bin/bash
-cp -nw file.html ./
+cp -nw *.html ./
+
+
+
