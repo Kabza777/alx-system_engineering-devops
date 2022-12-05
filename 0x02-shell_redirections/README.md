@@ -1,2 +1,2 @@
 #!bin/bash
-display content of two file  script
+print last 10 lines script
