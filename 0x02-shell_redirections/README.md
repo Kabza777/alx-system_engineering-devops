@@ -1,2 +1,2 @@
 #!bin/bash
-display one confused smiley script
+display a file script
