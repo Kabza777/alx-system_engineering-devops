@@ -1,2 +1,2 @@
-#!bin/bash
-print first 10 lines script
+#!/bin/bash
+script creating a file
