@@ -1,2 +1,2 @@
 #!bin/bash
-display a file script
+display content of two file  script
