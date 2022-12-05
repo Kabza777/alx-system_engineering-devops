@@ -1,2 +1,2 @@
 #!bin/bash
-print last 10 lines script
+print first 10 lines script
