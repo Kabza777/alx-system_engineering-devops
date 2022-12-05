@@ -1,2 +1,2 @@
 #!bin/bash
-chmod u+x files
+display one confused smiley script
