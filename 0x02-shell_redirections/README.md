@@ -1,2 +1,2 @@
-#!/bin/bash
-Each script is printing executable commands
+#!bin/bash
+chmod u+x files
