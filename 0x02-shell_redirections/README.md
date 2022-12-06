@@ -1,2 +1,2 @@
 #!/bin/bash
-script creating a file
+script sorting and listing ten newest directory contents
