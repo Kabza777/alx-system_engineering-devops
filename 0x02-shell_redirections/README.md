@@ -1,2 +1,2 @@
 #!/bin/bash
-script sorting and listing ten newest directory contents
+script sorting and displaying non-duplicate file contents
